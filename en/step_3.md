@@ -1,6 +1,6 @@
 ## Colour the hat
 
-We will start with the snowman that you created if you have completed the [Snowman](https://projects.raspberrypi.org/en/projects/blender-snowman){:target="_blank"} resource. If you don't have a snowman you can [download the starter project](resources/snowman.blend).
+You will start with the snowman that you created if you have completed the [Snowman](https://projects.raspberrypi.org/en/projects/blender-snowman){:target="_blank"} resource. If you don't have a snowman you can [download the starter project](resources/snowman.blend).
 
 At the top the snowman has a hat. Let's try and make the hat green.
 
@@ -10,7 +10,7 @@ If you look at what the camera sees, the snowman looks entirely grey. For exampl
 
 ![Grey snowman](images/blender-snowman.png)
 
-To colour the snowman we need to add some **materials** to the model.
+To colour the snowman you need to add some **materials** to the model.
 
 + Press <kbd>ESC</kbd> to exit the render view.
 
