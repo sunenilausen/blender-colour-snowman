@@ -1,4 +1,4 @@
-## Colouring an eye
+## Colour an eye
 
 In this step you'll be colouring an eye.
 
