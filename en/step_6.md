@@ -18,8 +18,8 @@ The snowman's nose will be orange. As you don't yet have an orange material, you
 
 ![Select the colour](images/blender-material-cone-colour.png)
 
-+ Press F12 or FN + F12 and check that the nose has a nice orange colour.
++ Press <kbd>F12</kbd> or <kbd>FN + F12</kbd> and check that the nose has a nice orange colour.
 
 ![Render the cone](images/blender-snowman-orange-nose.png)
 
-+ Press ESC to exit the view.
++ Press <kbd>ESC</kbd> to exit the view.

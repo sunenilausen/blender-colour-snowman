@@ -7,3 +7,5 @@ See if you can follow the same process to colour the snowman's head and body whi
 + To make the colour white, you need to drag the dot on the slider all the way to the top.
 
 ![White bottom](images/blender-material-bottom-colour.png)
+
+![Finished snowman](images/blender-snowman-coloured.png)
