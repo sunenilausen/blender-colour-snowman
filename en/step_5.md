@@ -1,4 +1,4 @@
-## Colour the eye and buttons
+## Colour the eyes and buttons
 
 To colour the other eye and each of the buttons, you could go through the whole process of adding a new material for each, but this would bequite cumbersome. It's much easier to reuse a material that you have already made, so let's reuse the coal material to colour the other eye and the buttons!
 
