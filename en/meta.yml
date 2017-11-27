@@ -1,6 +1,6 @@
 title: Colour a snowman
 hero_image: images/banner.png
-description: Learn how to colour in a 3D model of a snowman using Blender.
+description: Learn how to colour in a 3D model of a snowman using Blender
 theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2 # possible values: 1, 2 or 3
 listed: false
@@ -15,6 +15,6 @@ steps:
   - title: What you will need
   - title: Colour the hat
   - title: Colour an eye
-  - title: Colour the eye and buttons
+  - title: Colour the eyes and buttons
   - title: Colour the nose
-  - title: "Challenge: Colour the body"
+  - title: "Challenge: colour the body"
