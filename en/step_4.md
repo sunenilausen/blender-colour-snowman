@@ -1,10 +1,10 @@
 ## Colour an eye
 
-In this step you'll be colouring an eye.
+In this step, you'll be colouring an eye.
 
-+ Select one of the eyes by right clicking on it. You can make sure that the eye is selected by checking for the orange border surrounding the eye.
++ Select one of the eyes by right-clicking on it. You can make sure that the eye is selected by checking whether there's an orange border surrounding it.
 
-+ Go to the **Material** tab on the right hand panel and press **New** to create a new material for the eye.
++ Go to the **Material** tab on the right-hand panel and press **New** to create a new material for the eye.
 
 ![Create new material](images/blender-material-sphere-new.png)
 
@@ -12,14 +12,14 @@ In this step you'll be colouring an eye.
 
 ![Create new material](images/blender-material-sphere-name.png)
 
-+ Underneath, select **Diffuse** and you will see that there is no black on the colour palette! However you can drop the intensity by moving the dot on the right down until you get to black.
++ Underneath, select **Diffuse**. You will see that there is no black on the colour palette! However, you can drop the intensity by moving the dot on the right down until you get to black.
 
 ![Create new material](images/blender-material-sphere-colour.png)
 
 So now you have a black eye. The rest of the snowman is still grey.
 
-+ Render the image by pressing <kbd>F12</kbd> (or <kbd>FN + F12</kbd>, if on a Mac) to see what it looks like.
++ Render the image to see what it looks like.
 
 ![Create new material](images/blender-snowman-black-eye.png)
 
-+ Press <kbd>ESC</kbd> to exit the view.
++ Press <kbd>ESC</kbd> to exit the render view again.
