@@ -2,6 +2,8 @@
 
 ![blender-colour-snowman](/en/images/banner.png)
 
+Learn how to colour in a 3D model of a snowman using Blender.
+
 Find the project online at [projects.raspberrypi.org/en/projects/blender-colour-snowman](https://projects.raspberrypi.org/en/projects/blender-colour-snowman)
 
 ## Resources
