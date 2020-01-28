@@ -9,11 +9,31 @@ Here is how your finished piece will look:
 <div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/f711766cd46a4837a58534b3b8766c5d/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 </div>
 
-### What you will learn
+--- collapse ---
+---
+title: "What you will learn"
+---
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Design basic 2D and 3D assets](https://curriculum.raspberrypi.org/design/creator/){:target="_blank"}
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: "What you will need"
+---
+
+### Hardware
+
++ A desktop or laptop computer capable of running the Blender software
+
+### Software
+
++ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.73 or higher)
+
+--- /collapse ---
 
 ### Additional information for educators
 
@@ -26,6 +46,7 @@ If you prefer, you can watch the whole resource as a video tutorial:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BicU88QG1WI?rel=0" frameborder="0" allowfullscreen></iframe>
 
+(Blender version in video is Blender 2.73)
 
 ### License
 

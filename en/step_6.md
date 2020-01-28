@@ -1,25 +1,11 @@
-## Colour the nose
+## Challenge: colour the body
 
-The snowman's nose will be orange. As you don't yet have an orange material, you will need to make a new colour.
+When you're in 3D view, you will notice that the spheres making up the bottom and the head of the snowman are grey and not white.
 
-+ Select the nose.
++ See if you can use what you've learnt to colour the snowman's head and body white.
 
-+ Go to the **Material** tab.
+To make the colour white, you need to drag the dot on the slider all the way to the top.
 
-+ Select **New** to create a new colour.
+![White bottom](images/blender-material-bottom-colour.png)
 
-![New colour](images/blender-material-cone-new.png)
-
-+ Give the material a name, for example 'carrot'.
-
-![Name the material](images/blender-material-cone-name.png)
-
-+ Select **Diffuse** and pick a nice orange colour. If necessary, drop the intensity to get a nice carrot-like shade.
-
-![Select the colour](images/blender-material-cone-colour.png)
-
-+ Render your image to check that the nose has a nice orange colour.
-
-![Render the cone](images/blender-snowman-orange-nose.png)
-
-+ Exit the render view again.
+![Finished snowman](images/blender-snowman-coloured.png)
