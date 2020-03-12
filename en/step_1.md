@@ -6,7 +6,8 @@ Learn how to colour in a 3D model of a snowman using Blender.
 
 Here is how your finished piece will look:
 
-<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/f711766cd46a4837a58534b3b8766c5d/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+<div class="responsive-embed responsive-embed--video">
+  <iframe class="responsive-embed__iframe" src="https://sketchfab.com/models/f711766cd46a4837a58534b3b8766c5d/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
 --- collapse ---
@@ -31,7 +32,7 @@ title: "What you will need"
 
 ### Software
 
-+ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.73 or higher)
++ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 or newer)
 
 --- /collapse ---
 
@@ -44,9 +45,7 @@ Use the link in the footer to access the GitHub repository for this project, whi
 
 If you prefer, you can watch the whole resource as a video tutorial:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BicU88QG1WI?rel=0" frameborder="0" allowfullscreen></iframe>
-
-(Blender version in video is Blender 2.73)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zua2AfUonYU" frameborder="0" allowfullscreen></iframe>
 
 ### License
 
