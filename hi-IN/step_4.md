@@ -1,25 +1,19 @@
-## Colour an eye
+## Colour the eyes and buttons
 
-In this step, you'll be colouring an eye.
+To colour the other eye and each of the buttons, you could go through the whole process of adding a new material for each, but this would bequite cumbersome. It's much easier to reuse a material that you have already made, so let's reuse the coal material to colour the other eye and the buttons!
 
-+ Select one of the eyes by right-clicking on it. You can make sure that the eye is selected by checking whether there's an orange border surrounding it.
++ Select the other eye.
 
-+ Go to the **Material** tab on the right-hand panel and press **New** to create a new material for the eye.
++ Go to the **Material Properties** tab. Instead of selecting the **New** option, click on the **material selection** drop-down menu next to it.
 
-![Create new material](images/blender-material-sphere-new.png)
+![Reselect the material](images/blender-sphere-material-reselect.png)
 
-+ Name this material 'coal'.
++ Select the 'coal' material you created earlier.
 
-![Create new material](images/blender-material-sphere-name.png)
+Repeat this process for each of the snowman's buttons.
 
-+ Underneath, select **Diffuse**. You will see that there is no black on the colour palette! However, you can drop the intensity by moving the dot on the right down until you get to black.
++ Select a button, then click on the **Material Properties** tab to select the 'coal' material.
 
-![Create new material](images/blender-material-sphere-colour.png)
++ Render your image again. You will see that the snowman now has black buttons and black eyes.
 
-So now you have a black eye. The rest of the snowman is still grey.
-
-+ Render the image to see what it looks like.
-
-![Create new material](images/blender-snowman-black-eye.png)
-
-+ Press <kbd>ESC</kbd> to exit the render view again.
+![Snowman with black buttons](images/blender-snowman-black-buttons.png)
