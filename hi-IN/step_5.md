@@ -1,19 +1,23 @@
-## Colour the eyes and buttons
+## Colour the nose
 
-To colour the other eye and each of the buttons, you could go through the whole process of adding a new material for each, but this would bequite cumbersome. It's much easier to reuse a material that you have already made, so let's reuse the coal material to colour the other eye and the buttons!
+The snowman's nose will be orange. As you don't yet have an orange material, you will need to make a new colour.
 
-+ Select the other eye.
++ Select the nose.
 
-+ Go to the **Material** tab. Instead of selecting the **New** option, click on the **material selection** drop-down menu next to it.
++ Go to the **Material Properties** tab.
 
-![Reselect the material](images/blender-sphere-material-reselect.png)
++ Select **New** to create a new colour.
 
-+ Select the 'coal' material you created earlier.
++ Give the material a name, for example 'carrot'.
 
-Repeat this process for each of the snowman's buttons.
+![Name the material](images/blender-material-cone-name.png)
 
-+ Select a button, then click on the **Material** tab to select the 'coal' material.
++ Select **Base Color** and pick a nice orange colour. If necessary, drop the intensity to get a nice carrot-like shade.
 
-+ Render your image again. You will see that the snowman now has black buttons and black eyes.
+![Select the colour](images/blender-material-cone-colour.png)
 
-![Snowman with black buttons](images/blender-snowman-black-buttons.png)
++ Render your image to check that the nose has a nice orange colour.
+
+![Render the cone](images/blender-snowman-orange-nose.png)
+
++ Exit the render view again.
