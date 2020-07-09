@@ -1,23 +1,23 @@
-## Colour the nose
+## नाक को रंग करें
 
-The snowman's nose will be orange. As you don't yet have an orange material, you will need to make a new colour.
+स्नोमैन की नाक नारंगी होगी। चूंकि आपके पास अभी तक नारंगी सामग्री नहीं है, आपको एक नया रंग बनाना होगा।
 
-+ Select the nose.
++ नाक का चयन करें
 
-+ Go to the **Material Properties** tab.
++ **Material Properties** टैब पर जाएं।
 
-+ Select **New** to create a new colour.
++ कोई नया रंग बनाने के लिए **New** चुनें।
 
-+ Give the material a name, for example 'carrot'.
++ सामग्री को कोई नाम दें, उदाहरण के लिए 'carrot'।
 
-![Name the material](images/blender-material-cone-name.png)
+![सामग्री का कोई नाम रखें](images/blender-material-cone-name.png)
 
-+ Select **Base Color** and pick a nice orange colour. If necessary, drop the intensity to get a nice carrot-like shade.
++ **Base Color** का चयन करें और कोई अच्छा नारंगी रंग चुनें। यदि आवश्यक हो, तो गाजर जैसा कोई शेड प्राप्त करने के लिए तीव्रता को कम करें।
 
-![Select the colour](images/blender-material-cone-colour.png)
+![रंग का चयन करें](images/blender-material-cone-colour.png)
 
-+ Render your image to check that the nose has a nice orange colour.
++ यह जाँच करने के लिए अपनी छवि प्रस्तुत करें कि नाक का अच्छा नारंगी रंग है।
 
-![Render the cone](images/blender-snowman-orange-nose.png)
+![शंकु प्रस्तुत करें](images/blender-snowman-orange-nose.png)
 
-+ Exit the render view again.
++ दृश्य प्रस्तुति से फिर बाहर निकलें।
