@@ -1,19 +1,19 @@
-## Colour the eyes and buttons
+## आँखों और बटनों को रंग करें
 
-To colour the other eye and each of the buttons, you could go through the whole process of adding a new material for each, but this would bequite cumbersome. It's much easier to reuse a material that you have already made, so let's reuse the coal material to colour the other eye and the buttons!
+दूसरी आँख और प्रत्येक बटन को रंग करने के लिए, आप प्रत्येक के लिए एक नई सामग्री जोड़ने की पूरी प्रक्रिया से गुजर सकते हैं, लेकिन यह बहुत बोझिल होगा। आपके द्वारा पहले से बनाई गई सामग्री का पुन: उपयोग करना बहुत आसान है, इसलिए आइए हम दूसरी आँख और बटनों को रंग करने के लिए coal सामग्री का पुन: उपयोग करें!
 
-+ Select the other eye.
++ दूसरी आँख का चयन करें।
 
-+ Go to the **Material Properties** tab. Instead of selecting the **New** option, click on the **material selection** drop-down menu next to it.
++ **Material Properties**टैब पर जाएं। **New** विकल्प चुनने के बजाय, उसके बगल में **material selection** के ड्रॉप-डाउन मेनू पर क्लिक करें।
 
-![Reselect the material](images/blender-sphere-material-reselect.png)
+![सामग्री का फिर से चयन करें](images/blender-sphere-material-reselect.png)
 
-+ Select the 'coal' material you created earlier.
++ आपके द्वारा पहले बनाई गई 'कोयला' सामग्री का चयन करें।
 
-Repeat this process for each of the snowman's buttons.
+स्नोमैन के प्रत्येक बटन के लिए इस प्रक्रिया को दोहराएँ।
 
-+ Select a button, then click on the **Material Properties** tab to select the 'coal' material.
++ किसी बटन का चयन करें, फिर 'coal' सामग्री को चुनने के लिए **Material Properties** टैब पर क्लिक करें।
 
-+ Render your image again. You will see that the snowman now has black buttons and black eyes.
++ अपनी छवि दुबारा प्रस्तुत करें। आप देखेंगे कि स्नोमैन के पास अब काले बटन और काली आँखें हैं।
 
-![Snowman with black buttons](images/blender-snowman-black-buttons.png)
+![काले बटनों वाला स्नोमैन](images/blender-snowman-black-buttons.png)
