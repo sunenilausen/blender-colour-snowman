@@ -1,47 +1,47 @@
-## Colour the hat
+## टोपी में रंग भरें
 
-You will start with the snowman that you created if you have completed the [Snowman](https://projects.raspberrypi.org/en/projects/blender-snowman){:target="_blank"} resource. If you don't have a snowman, you can [download the starter project](resources/snowman.blend).
+यदि आप [स्नोमैन](https://projects.raspberrypi.org/en/projects/blender-snowman){:target="_blank"} संसाधन पूरा कर चुके हैं तो आप उस स्नोमैन के साथ शुरू करेंगे जिसे आपने तैयार किया है। यदि आपके पास स्नोमैन नहीं है, तो आप [प्रारंभक परियोजना डाउनलोड](resources/snowman.blend) कर सकते हैं।
 
-On its head, the snowman has a hat. Let's try and make it green.
+स्नोमैन के सिर पर एक टोपी है। आइए इसे हरा बनाने की कोशिश करते हैं।
 
-+ Render the image by pressing <kbd>F12</kbd> (or <kbd>FN + F12</kbd> if you're working on a Mac).
++ <kbd>F12</kbd>दबाकर (या यदि आप Mac का उपयोग कर रहे हैं तो <kbd>FN + F12</kbd> दबाकर) छवि प्रस्तुत करें।
 
-If you look at what the camera sees, the snowman looks entirely grey. For example:
+यदि आप यह देखें कि कैमरे को क्या दिखता है, तो स्नोमैन पूरी तरह से ग्रे दिखता है। उदाहरण के लिए:
 
-![Grey snowman](images/blender-snowman.png)
+![ग्रे स्नोमैन](images/blender-snowman.png)
 
-To colour the snowman, you need to add some **materials** to the model.
+स्नोमैन को रंगने के लिए, आपको मॉडल में कुछ **सामग्री** जोड़ने की आवश्यकता होगी।
 
-+ Press <kbd>ESC</kbd> to exit the render view.
++ प्रस्तुत दृश्य से बाहर निकलने के लिए <kbd>ESC</kbd> दबाएँ।
 
-+ Select the hat, then select the **Material Properties** icon from the menu on the right-hand panel.
++ टोपी का चयन करें, फिर दाईं ओर के पैनल पर मेनू से **Material Properties** आइकन का चयन करें।
 
-![Select the material tab](images/material-icon-new.png)
+![सामग्री टैब का चयन करें](images/material-icon-new.png)
 
-+ Add a new material by clicking the **New** button.
++ **New** बटन पर क्लिक करके कोई नई सामग्री जोड़ें।
 
-+ Name the material 'greenhat' by typing the name in the box.
++ बॉक्स में नाम टाइप करके सामग्री को 'greenhat' नाम दें।
 
-![Name the material](images/blender-material-hat-name.png)
+![सामग्री का कोई नाम रखें](images/blender-material-hat-name.png)
 
-+ Below, go to **Base Color** and click on the white box. A colour palette will appear, where you can select a nice green colour.
++ नीचे, **Base Color** पर जाएँ और सफेद बॉक्स पर क्लिक करें। एक रंग का पैलेट दिखाई देगा, जहाँ आप कोईअच्छा हरा रंग चुन सकते हैं।
 
-![Select green](images/blender-material-hat-colour.png)
+![हरा चुनें](images/blender-material-hat-colour.png)
 
-The colour choices might look too bright green for your liking. If you would prefer a darker green, you can decrease the amount of intensity.
+रंग के विकल्प आपकी पसंद के हिसाब से बहुत चमकीले हरे रंग लग सकते हैं। यदि आप कोई गहरा हरा रंग पसंद करते हैं, तो आप इसके गहरेपन की मात्रा को कम कर सकते हैं।
 
-+ Select **Base Color** again by clicking on the coloured box. Lower the dot in the right bar on the colour palette towards the black colour. You'll see the green getting darker.
++ रंगीन बॉक्स पर क्लिक करके फिर से **Base Color** का चयन करें। रंग के पैलेट पर दाईं पट्टी में डॉट को काले रंग की तरफ नीचे करें। आप देखेंगे कि हरा रंग गहरा होता जा रहा है।
 
-![Darker hat](images/blender-material-hat-darker.png)
+![अधिक गहरे रंग की टोपी](images/blender-material-hat-darker.png)
 
-+ Render your image to see what it looks like.
++ यह देखने के लिए अपनी छवि को प्रस्तुत करें कि यह कैसी दिखती है।
 
-![Snowman with dark hat](images/blender-snowman-green-hat.png)
+![गहरे रंग की टोपी वाला स्नोमैन](images/blender-snowman-green-hat.png)
 
-You can see that the snowman now has a green hat.
+आप देख सकते हैं कि स्नोमैन की टोपी अब हरी है।
 
-+ Exit the render view.
++ दृश्य प्रस्तुति से बाहर निकलें।
 
-+ To view the colour on the snowman in the 3D View, click the **Viewport Shading** button.
++ 3D व्यू में स्नोमैन पर रंग देखने के लिए, **Viewport Shading** बटन क्लिक करें।
 
-![Viewport Shading button](images/viewport-shading.png)
+![Viewport Shading बटन](images/viewport-shading.png)
