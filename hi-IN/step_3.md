@@ -1,23 +1,23 @@
-## Colour an eye
+## एक आँख को रंग करें
 
-In this step, you'll be colouring an eye.
+इस चरण में, आप एक आँख को रंग करेंगे।
 
-+ Select one of the eyes by clicking on it. You can make sure that the eye is selected by checking whether there's an orange border surrounding it.
++ किसी एक आँख पर क्लिक करके उसका चयन करें। आँख का चयन हुआ है या नहीं इसे आप यह जाँच करके सुनिश्चित कर सकते हैं कि इसके चारों ओर नारंगी रंग का बॉर्डर है या नहीं।
 
-+ As with the hat, go to the **Material Properties** tab on the right-hand panel and press **New** to create a new material for the eye.
++ टोपी के साथ, दाईं ओर के पैनल पर **Material Properties** टैब पर जाएँ और आँखों के लिए कोई नई सामग्री बनाने के लिए **New** दबाएँ।
 
-+ Name this material 'coal'.
++ इस सामग्री को 'coal' नाम दें।
 
-![Create new material](images/blender-material-sphere-name.png)
+![नई सामग्री बनाएँ](images/blender-material-sphere-name.png)
 
-+ Underneath, select **Base Color**. You will see that there is no black on the colour palette! However, you can drop the intensity by moving the dot on the right down until you get to black.
++ नीचे, **Base Color** चुनें। आप देखेंगे कि रंग पैलेट पर कोई काला रंग नहीं है! हालांकि, आप दाईं ओर के डॉट को तब तक नीचे करते हुए उसकी तीव्रता को कम कर सकते हैं जब तक आपको काला रंग न मिल जाए।
 
-![Create new material](images/blender-material-sphere-colour.png)
+![नई सामग्री बनाएँ](images/blender-material-sphere-colour.png)
 
-So now you have a black eye. The rest of the snowman is still grey.
+तो अब आपके पास काले रंग की आँख है। बाकी का स्नोमैन अभी भी ग्रे रंग का है।
 
-+ Render the image to see what it looks like.
++ यह देखने के लिए छवि को प्रस्तुत करें कि यह कैसी दिखती है।
 
-![Create new material](images/blender-snowman-black-eye.png)
+![नई सामग्री बनाएँ](images/blender-snowman-black-eye.png)
 
-+ Press <kbd>ESC</kbd> to exit the render view again.
++ प्रस्तुत दृश्य से फिर से बाहर निकलने के लिए <kbd>ESC</kbd> दबाएँ।
