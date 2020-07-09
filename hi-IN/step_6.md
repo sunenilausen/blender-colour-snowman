@@ -1,11 +1,11 @@
-## Challenge: colour the body
+## चुनौती: शरीर पर रंग करें
 
-When you're in 3D view, you will notice that the spheres making up the bottom and the head of the snowman are grey and not white.
+जब आप 3D व्यू में हों, तो आप देखेंगे कि स्नोमैन के नीचे और ऊपर के हिस्से सफेद नहीं बल्कि ग्रे हैं।
 
-+ See if you can use what you've learnt to colour the snowman's head and body white.
++ देखें कि आपने स्नोमैन के सिर और शरीर का रंग सफेद करने के लिए जो कुछ सीखा है क्या आप उसका उपयोग कर सकते हैं।
 
-To make the colour white, you need to drag the dot on the slider all the way to the top.
+रंग को सफ़ेद करने के लिए, आपको स्लाइडर के डॉट को पूरी तरह शीर्ष तक खींचना होगा।
 
-![White bottom](images/blender-material-bottom-colour.png)
+![नीचे का हिस्सा सफेद](images/blender-material-bottom-colour.png)
 
-![Finished snowman](images/blender-snowman-coloured.png)
+![समाप्त स्नोमैन ](images/blender-snowman-coloured.png)
