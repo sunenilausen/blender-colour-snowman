@@ -1,19 +1,19 @@
-## Colour the eyes and buttons
+## Färbe die Augen und Knöpfe
 
-To colour the other eye and each of the buttons, you could go through the whole process of adding a new material for each, but this would bequite cumbersome. It's much easier to reuse a material that you have already made, so let's reuse the coal material to colour the other eye and the buttons!
+Um das andere Auge und jeden der Knöpfe einzufärben, könntest du den gesamten Prozess des Hinzufügens eines neuen Materials einzelnt wiederholen, jedoch wäre dies relativ umständlich. Es ist viel einfacher ein Material wiederzuverwenden das du bereits hergestellt hast, also lass uns das Kohlematerial wieder verwenden, um das andere Auge und die Knöpfe einzufärben!
 
-+ Select the other eye.
++ Wähle das andere Auge.
 
-+ Go to the **Material Properties** tab. Instead of selecting the **New** option, click on the **material selection** drop-down menu next to it.
++ Gehe zur Registerkarte **Material Properties**. Anstatt die Option **Neu** auszuwählen, klick auf das Dropdown-Menü **Materialauswahl** neben der Option.
 
-![Reselect the material](images/blender-sphere-material-reselect.png)
+![Material erneut auswählen](images/blender-sphere-material-reselect.png)
 
-+ Select the 'coal' material you created earlier.
++ Wähle das 'Kohle'-Material, welches du zuvor erstellt hast.
 
-Repeat this process for each of the snowman's buttons.
+Wiederhole diesen Prozess für jeden der Knöpfe.
 
-+ Select a button, then click on the **Material Properties** tab to select the 'coal' material.
++ Wähle einen Knopf, dann klicke auf die Registerkarte **Material Properties** um das 'Kohle'-Material auszuwählen.
 
-+ Render your image again. You will see that the snowman now has black buttons and black eyes.
++ Render das Bild erneut. Du wirst sehen, dass der Schneemann jetzt schwarze Knöpfe und schwarze Augen hat.
 
-![Snowman with black buttons](images/blender-snowman-black-buttons.png)
+![Schneemann mit schwarzen Knöpfen](images/blender-snowman-black-buttons.png)
