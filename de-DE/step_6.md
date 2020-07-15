@@ -1,11 +1,11 @@
-## Challenge: colour the body
+## Herausforderung: Färbe den Körper
 
-When you're in 3D view, you will notice that the spheres making up the bottom and the head of the snowman are grey and not white.
+In der 3D-Ansicht wirst du feststellen, dass die Kugeln, aus denen der Boden und der Kopf des Schneemanns bestehen, grau und nicht weiß sind.
 
-+ See if you can use what you've learnt to colour the snowman's head and body white.
++ Schaue, ob du anwenden kannst, was du gelernt hast, um den Kopf und den Körper des Schneemanns weiß zu färben.
 
-To make the colour white, you need to drag the dot on the slider all the way to the top.
+Um die Farbe weiß einzufärben, musst du den Punkt auf dem Schieberegler ganz nach oben ziehen.
 
-![White bottom](images/blender-material-bottom-colour.png)
+![Weißer Boden](images/blender-material-bottom-colour.png)
 
-![Finished snowman](images/blender-snowman-coloured.png)
+![Fertiger Schneemann](images/blender-snowman-coloured.png)
