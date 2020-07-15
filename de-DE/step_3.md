@@ -1,23 +1,23 @@
-## Colour an eye
+## Färbe ein Auge
 
-In this step, you'll be colouring an eye.
+In diesem Schritt färben Sie ein Auge.
 
-+ Select one of the eyes by clicking on it. You can make sure that the eye is selected by checking whether there's an orange border surrounding it.
++ Select one of the eyes by clicking on it. Du kannst sicherstellen, dass das Auge ausgewählt ist, indem du überprüfst, ob es eine orangefarbene Linie um das Auge herum gibt.
 
 + As with the hat, go to the **Material Properties** tab on the right-hand panel and press **New** to create a new material for the eye.
 
-+ Name this material 'coal'.
++ Benenne dieses Material 'Kohle'.
 
-![Create new material](images/blender-material-sphere-name.png)
+![Neues Material erstellen](images/blender-material-sphere-name.png)
 
-+ Underneath, select **Base Color**. You will see that there is no black on the colour palette! However, you can drop the intensity by moving the dot on the right down until you get to black.
++ Wähle darunter **Base Color**. Du wirst sehen, dass es kein Schwarz auf der Farbpalette gibt! Du kannst aber die Intensität verringern, indem du den Punkt rechts unten bewegst, bis du schwarz erreichst.
 
-![Create new material](images/blender-material-sphere-colour.png)
+![Neues Material erstellen](images/blender-material-sphere-colour.png)
 
-So now you have a black eye. The rest of the snowman is still grey.
+Jetzt hast du ein schwarzes Auge. Der Rest des Schneemanns ist noch grau.
 
-+ Render the image to see what it looks like.
++ Render das Bild, um zu sehen, wie es aussieht.
 
-![Create new material](images/blender-snowman-black-eye.png)
+![Neues Material erstellen](images/blender-snowman-black-eye.png)
 
-+ Press <kbd>ESC</kbd> to exit the render view again.
++ Drücke <kbd>ESC</kbd> um die Renderansicht erneut zu verlassen.
