@@ -1,46 +1,46 @@
-## Colour the hat
+## Färbe den Hut
 
-You will start with the snowman that you created if you have completed the [Snowman](https://projects.raspberrypi.org/en/projects/blender-snowman){:target="_blank"} resource. If you don't have a snowman, you can [download the starter project](resources/snowman.blend).
+Du wirst mit dem Schneemann beginnen, den du erstellt hast, wenn du die [Schneemann ](https://projects.raspberrypi.org/en/projects/blender-snowman){:target="_blank"} Ressource abgeschlossen hast. Wenn du keinen Schneemann hast, kannst du das Startprojekt [herunterladen](resources/snowman.blend).
 
-On its head, the snowman has a hat. Let's try and make it green.
+Auf seinem Kopf hat der Schneemann einen Hut. Versuche es grün zu färben.
 
-+ Render the image by pressing <kbd>F12</kbd> (or <kbd>FN + F12</kbd> if you're working on a Mac).
++ Render das Bild durch Drücken von <kbd>F12</kbd> (oder <kbd>FN + F12</kbd> wenn du auf einem Mac arbeitest).
 
-If you look at what the camera sees, the snowman looks entirely grey. For example:
+Wenn man sich anschaut, was die Kamera sieht, sieht der Schneemann ganz grau aus. Zum Beispiel:
 
-![Grey snowman](images/blender-snowman.png)
+![Grauer Schneemann](images/blender-snowman.png)
 
-To colour the snowman, you need to add some **materials** to the model.
+Um den Schneemann zu färben, musst du einige **Materialien ** zum Modell hinzufügen.
 
-+ Press <kbd>ESC</kbd> to exit the render view.
++ Drücke <kbd>ESC</kbd> um die Renderansicht zu verlassen.
 
-+ Select the hat, then select the **Material Properties** icon from the menu on the right-hand panel.
++ Wähle den Hut, dann wähle den Tab **Material Properties** aus dem Menü auf der rechten Seite.
 
-![Select the material tab](images/material-icon-new.png)
+![Wähle die Registerkarte Material](images/material-icon-new.png)
 
-+ Add a new material by clicking the **New** button.
++ Füge ein neues Material hinzu, indem du auf **Neu** klickst.
 
-+ Name the material 'greenhat' by typing the name in the box.
++ Benenne das Material 'grünerhut', indem du den Namen in das Feld eingibst.
 
-![Name the material](images/blender-material-hat-name.png)
+![Material benennen](images/blender-material-hat-name.png)
 
-+ Below, go to **Base Color** and click on the white box. A colour palette will appear, where you can select a nice green colour.
++ Unten, gehe zu **Base Color** und klicke auf das weiße Kästchen. Es erscheint eine Farbpalette, in der Sie eine beliebige grüne Farbe auswählen können.
 
-![Select green](images/blender-material-hat-colour.png)
+![Grün auswählen](images/blender-material-hat-colour.png)
 
-The colour choices might look too bright green for your liking. If you would prefer a darker green, you can decrease the amount of intensity.
+Die Farbauswahl könnte für deinen Geschmack zu hellgrün aussehen. Wenn du ein dunkleres Grün bevorzugst, kannst du die Intensität verringern.
 
-+ Select **Base Color** again by clicking on the coloured box. Lower the dot in the right bar on the colour palette towards the black colour. You'll see the green getting darker.
++ Wähle **Base Color** erneut aus, indem du auf das farbige Feld klickst. Verschiebe den Punkt in der rechten Leiste auf der Farbpalette in Richtung der schwarzen Farbe. Du wirst sehen, wie das Grün dunkler wird.
 
-![Darker hat](images/blender-material-hat-darker.png)
+![Dunkler Hut](images/blender-material-hat-darker.png)
 
-+ Render your image to see what it looks like.
++ Render das Bild, um zu sehen, wie es aussieht.
 
-![Snowman with dark hat](images/blender-snowman-green-hat.png)
+![Schneemann mit dunklem Hut](images/blender-snowman-green-hat.png)
 
-You can see that the snowman now has a green hat.
+Du kannst sehen, dass der Schneemann jetzt einen grünen Hut hat.
 
-+ Exit the render view.
++ Beende die Renderansicht.
 
 + To view the colour on the snowman in the 3D View, click the **Viewport Shading** button.
 
