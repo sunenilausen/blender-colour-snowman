@@ -1,23 +1,23 @@
-## Colour the nose
+## Färbe die Nase
 
-The snowman's nose will be orange. As you don't yet have an orange material, you will need to make a new colour.
+Die Nase des Schneemanns soll orange werden. Da du noch kein orangefarbenes Material hast, brauchst du eine neue Farbe.
 
-+ Select the nose.
++ Wähle die Nase aus.
 
-+ Go to the **Material Properties** tab.
++ Gehe zur Registerkarte **Material Properties**.
 
-+ Select **New** to create a new colour.
++ Wähle **Neu** aus, um eine neue Farbe zu erstellen.
 
-+ Give the material a name, for example 'carrot'.
++ Gebe dem Material einen Namen, zum Beispiel "Karotte".
 
-![Name the material](images/blender-material-cone-name.png)
+![Material benennen](images/blender-material-cone-name.png)
 
-+ Select **Base Color** and pick a nice orange colour. If necessary, drop the intensity to get a nice carrot-like shade.
++ Wähle **Base Color** und wähle eine beliebige orange Farbe. Wenn nötig, lass die reduziere die Intensität, um einen schönen karottenartigen Farbton zu erhalten.
 
-![Select the colour](images/blender-material-cone-colour.png)
+![Farbe auswählen](images/blender-material-cone-colour.png)
 
-+ Render your image to check that the nose has a nice orange colour.
++ Render dein Bild, um zu überprüfen, ob die Nase eine schöne orangefarbene Farbe hat.
 
-![Render the cone](images/blender-snowman-orange-nose.png)
+![Den Kegel anzeigen](images/blender-snowman-orange-nose.png)
 
-+ Exit the render view again.
++ Verlasse die Renderansicht erneut.
