@@ -2,15 +2,15 @@
 title: स्नोमैन को रंग करें
 hero_image: images/banner.png
 description: सीखें कि Blender का उपयोग करके स्नोमैन के 3D मॉडल में रंग कैसे भरें।
-theme: लाल #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-interests: कला
+interests: art
 technologies: blender
-site_areas: परियोजनाएं
+site_areas: projects
 hardware: ''
 software: blender
 version: 4
