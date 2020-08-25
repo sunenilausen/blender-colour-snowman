@@ -10,7 +10,7 @@ Wenn man sich anschaut, was die Kamera sieht, sieht der Schneemann ganz grau aus
 
 ![Grauer Schneemann](images/blender-snowman.png)
 
-Um den Schneemann zu färben, musst du einige **Materialien ** zum Modell hinzufügen.
+Um den Schneemann zu färben, musst du einige **Materialien** zum Modell hinzufügen.
 
 + Drücke <kbd>ESC</kbd> um die Renderansicht zu verlassen.
 
