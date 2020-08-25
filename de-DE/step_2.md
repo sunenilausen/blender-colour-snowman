@@ -42,6 +42,6 @@ Du kannst sehen, dass der Schneemann jetzt einen grünen Hut hat.
 
 + Beende die Renderansicht.
 
-+ To view the colour on the snowman in the 3D View, click the **Viewport Shading** button.
++ Um die Farbe auf dem Schneemann in der 3D-Ansicht zu sehen, klicke auf **Viewport Shading**.
 
-![Viewport Shading button](images/viewport-shading.png)
+![Viewport Shading Button](images/viewport-shading.png)
