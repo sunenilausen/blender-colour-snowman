@@ -2,9 +2,9 @@
 
 In diesem Schritt färben Sie ein Auge.
 
-+ Select one of the eyes by clicking on it. Du kannst sicherstellen, dass das Auge ausgewählt ist, indem du überprüfst, ob es eine orangefarbene Linie um das Auge herum gibt.
++ Wähle eines der Augen aus, indem du darauf klickst. Du kannst sicherstellen, dass das Auge ausgewählt ist, indem du überprüfst, ob es eine orangefarbene Linie um das Auge herum gibt.
 
-+ As with the hat, go to the **Material Properties** tab on the right-hand panel and press **New** to create a new material for the eye.
++ Gehe wie beim Hut auf die Registerkarte **Material Properties** (Materialeigenschaften) auf der rechten Seite und drücke **New** (Neu), um ein neues Material für das Auge zu erstellen.
 
 + Benenne dieses Material 'Kohle'.
 
