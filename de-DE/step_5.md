@@ -8,11 +8,11 @@ Die Nase des Schneemanns soll orange werden. Da du noch kein orangefarbenes Mate
 
 + Wähle **Neu** aus, um eine neue Farbe zu erstellen.
 
-+ Gebe dem Material einen Namen, zum Beispiel "Karotte".
++ Gib dem Material einen Namen, zum Beispiel "Karotte".
 
 ![Material benennen](images/blender-material-cone-name.png)
 
-+ Wähle **Base Color** und wähle eine beliebige orange Farbe. Wenn nötig, lass die reduziere die Intensität, um einen schönen karottenartigen Farbton zu erhalten.
++ Wähle **Base Color** und wähle eine beliebige orange Farbe. Wenn nötig, reduziere die Intensität, um einen schönen karottenartigen Farbton zu erhalten.
 
 ![Farbe auswählen](images/blender-material-cone-colour.png)
 
