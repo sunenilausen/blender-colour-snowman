@@ -1,6 +1,6 @@
 ## Färbe ein Auge
 
-In diesem Schritt färben Sie ein Auge.
+In diesem Schritt färbest du ein Auge.
 
 + Wähle eines der Augen aus, indem du darauf klickst. Du kannst sicherstellen, dass das Auge ausgewählt ist, indem du überprüfst, ob es eine orangefarbene Linie um das Auge herum gibt.
 

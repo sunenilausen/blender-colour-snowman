@@ -2,7 +2,7 @@
 
 Du wirst mit dem Schneemann beginnen, den du erstellt hast, wenn du die [Schneemann](https://projects.raspberrypi.org/de-DE/projects/blender-snowman){:target="_blank"} Ressource abgeschlossen hast. Wenn du keinen Schneemann hast, kannst du das Startprojekt [herunterladen](resources/snowman.blend).
 
-Auf seinem Kopf hat der Schneemann einen Hut. Versuche es grün zu färben.
+Auf seinem Kopf hat der Schneemann einen Hut. Versuche, ihn grün zu färben.
 
 + Render das Bild durch Drücken von <kbd>F12</kbd> (oder <kbd>FN + F12</kbd> wenn du auf einem Mac arbeitest).
 
@@ -24,7 +24,7 @@ Um den Schneemann zu färben, musst du einige **Materialien** zum Modell hinzuf�
 
 ![Material benennen](images/blender-material-hat-name.png)
 
-+ Unten, gehe zu **Base Color** und klicke auf das weiße Kästchen. Es erscheint eine Farbpalette, in der Sie eine beliebige grüne Farbe auswählen können.
++ Unten, gehe zu **Base Color** und klicke auf das weiße Kästchen. Es erscheint eine Farbpalette, in der du eine beliebige grüne Farbe auswählen kannst.
 
 ![Grün auswählen](images/blender-material-hat-colour.png)
 
