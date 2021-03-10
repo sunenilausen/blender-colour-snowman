@@ -1,0 +1,24 @@
+---
+title: Kleur een sneeuwpop
+hero_image: images/banner.png
+description: Leer hoe je een 3D-model van een sneeuwpop inkleurt met Blender
+theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+interests: art
+technologies: blender
+site_areas: projects
+hardware: ''
+software: blender
+version: 4
+last_tested: 2020-01-28
+steps:
+  - title: Inleiding
+  - title: Kleur de hoed
+  - title: Kleur een oog
+  - title: Kleur de ogen en knopen
+  - title: Kleur de neus
+  - title: "Uitdaging: kleur het lichaam"
