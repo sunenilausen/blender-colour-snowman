@@ -1,23 +1,23 @@
-## Colour an eye
+## Kleur een oog
 
-In this step, you'll be colouring an eye.
+In deze stap kleur je een oog.
 
-+ Select one of the eyes by clicking on it. You can make sure that the eye is selected by checking whether there's an orange border surrounding it.
++ Selecteer een van de ogen door erop te klikken. Je kunt ervoor zorgen dat het oog is geselecteerd door te controleren of er een oranje rand omheen zit.
 
-+ As with the hat, go to the **Material Properties** tab on the right-hand panel and press **New** to create a new material for the eye.
++ Net als met de hoed, ga naar het tabblad **Material Properties** in het rechterpaneel en druk op **Nieuw** om een nieuw materiaal voor het oog te maken.
 
-+ Name this material 'coal'.
++ Noem dit materiaal 'coal' (steenkool).
 
-![Create new material](images/blender-material-sphere-name.png)
+![Nieuw materiaal maken](images/blender-material-sphere-name.png)
 
-+ Underneath, select **Base Color**. You will see that there is no black on the colour palette! However, you can drop the intensity by moving the dot on the right down until you get to black.
++ Selecteer hieronder **Base Color**. Je zult zien dat er geen zwart op het kleurenpalet staat! Je kunt de intensiteit echter verlagen door de stip aan de rechterkant naar beneden te verplaatsen totdat je op zwart uitkomt.
 
-![Create new material](images/blender-material-sphere-colour.png)
+![Nieuw materiaal maken](images/blender-material-sphere-colour.png)
 
-So now you have a black eye. The rest of the snowman is still grey.
+Dus nu heb je een zwart oog. De rest van de sneeuwpop is nog steeds grijs.
 
-+ Render the image to see what it looks like.
++ Render de afbeelding om te zien hoe deze eruit ziet.
 
-![Create new material](images/blender-snowman-black-eye.png)
+![Nieuw materiaal maken](images/blender-snowman-black-eye.png)
 
-+ Press <kbd>ESC</kbd> to exit the render view again.
++ Druk op <kbd>ESC</kbd> om de renderweergave weer te verlaten.
