@@ -1,23 +1,23 @@
-## Colour an eye
+## Colorea un ojo
 
-In this step, you'll be colouring an eye.
+En este paso, vas a colorear un ojo.
 
-+ Select one of the eyes by clicking on it. You can make sure that the eye is selected by checking whether there's an orange border surrounding it.
++ Selecciona uno de los ojos haciendo clic sobre él. Puedes asegurarte de que el ojo está seleccionado comprobando si hay un borde naranja a su alrededor.
 
-+ As with the hat, go to the **Material Properties** tab on the right-hand panel and press **New** to create a new material for the eye.
++ Ahora para el sombrero, ve a la pestaña **Propiedades del Material** en el panel de la derecha y presiona **Nuevo** para crear un nuevo material para el ojo.
 
-+ Name this material 'coal'.
++ Nombra este material 'carbón'.
 
-![Create new material](images/blender-material-sphere-name.png)
+![Crear nuevo material](images/blender-material-sphere-name.png)
 
-+ Underneath, select **Base Color**. You will see that there is no black on the colour palette! However, you can drop the intensity by moving the dot on the right down until you get to black.
++ Debajo, selecciona **Color Base**. ¡Verás que no aparece el color negro en la paleta de colores! Sin embargo, puedes bajar la intensidad moviendo el punto de la derecha hacia abajo hasta que se ponga negro.
 
-![Create new material](images/blender-material-sphere-colour.png)
+![Crear nuevo material](images/blender-material-sphere-colour.png)
 
-So now you have a black eye. The rest of the snowman is still grey.
+Y ahora tienes un ojo negro. El resto del muñeco de nieve aún sigue siendo gris.
 
-+ Render the image to see what it looks like.
++ Renderiza la imagen para ver cómo se ve.
 
-![Create new material](images/blender-snowman-black-eye.png)
+![Crear nuevo material](images/blender-snowman-black-eye.png)
 
 + Press <kbd>ESC</kbd> to exit the render view again.
