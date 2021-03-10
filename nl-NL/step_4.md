@@ -1,19 +1,19 @@
-## Colour the eyes and buttons
+## Kleur de ogen en knopen
 
-To colour the other eye and each of the buttons, you could go through the whole process of adding a new material for each, but this would bequite cumbersome. It's much easier to reuse a material that you have already made, so let's reuse the coal material to colour the other eye and the buttons!
+Om het andere oog en elk van de knopen te kleuren, zou je het hele proces kunnen doorlopen van het toevoegen van nieuw materiaal voor elk ervan, maar dat zou behoorlijk omslachtig zijn. Het is veel gemakkelijker om een materiaal dat je al hebt gemaakt opnieuw te gebruiken, dus laten we het steenkoolmateriaal hergebruiken om het andere oog en de knopen te kleuren!
 
-+ Select the other eye.
++ Selecteer het andere oog.
 
-+ Go to the **Material Properties** tab. Instead of selecting the **New** option, click on the **material selection** drop-down menu next to it.
++ Ga naar het tabblad **Material Properties**. In plaats van de **Nieuw** optie te selecteren, klik je op het **materiaalselectie** keuzemenu ernaast.
 
-![Reselect the material](images/blender-sphere-material-reselect.png)
+![Selecteer het materiaal opnieuw](images/blender-sphere-material-reselect.png)
 
-+ Select the 'coal' material you created earlier.
++ Selecteer het 'coal'-materiaal dat je eerder hebt gemaakt.
 
-Repeat this process for each of the snowman's buttons.
+Herhaal dit proces voor elk van de sneeuwpopknopen.
 
-+ Select a button, then click on the **Material Properties** tab to select the 'coal' material.
++ Selecteer een knoop en klik vervolgens op het tabblad **Material Properties** om het 'coal' materiaal te selecteren.
 
-+ Render your image again. You will see that the snowman now has black buttons and black eyes.
++ Render je afbeelding opnieuw. Je zult zien dat de sneeuwpop nu zwarte knopen en zwarte ogen heeft.
 
-![Snowman with black buttons](images/blender-snowman-black-buttons.png)
+![Sneeuwpop met zwarte knopen](images/blender-snowman-black-buttons.png)
