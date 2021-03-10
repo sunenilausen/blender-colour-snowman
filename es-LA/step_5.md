@@ -1,23 +1,23 @@
-## Colour the nose
+## Colorea la nariz
 
-The snowman's nose will be orange. As you don't yet have an orange material, you will need to make a new colour.
+La nariz del muñeco de nieve será naranja. Como todavía no tienes un material naranja, deberás crear un nuevo color.
 
-+ Select the nose.
++ Selecciona la nariz.
 
-+ Go to the **Material Properties** tab.
++ Ve a la pestaña **Propiedades del Material**.
 
-+ Select **New** to create a new colour.
++ Selecciona **Nuevo** para crear un nuevo color.
 
-+ Give the material a name, for example 'carrot'.
++ Dale un nombre al material, por ejemplo 'zanahoria'.
 
-![Name the material](images/blender-material-cone-name.png)
+![Nombra el material](images/blender-material-cone-name.png)
 
-+ Select **Base Color** and pick a nice orange colour. If necessary, drop the intensity to get a nice carrot-like shade.
++ Selecciona **Color Base** y elige un bonito color naranja. Si es necesario, disminuye la intensidad para obtener un tono agradable y parecido al de una zanahoria.
 
-![Select the colour](images/blender-material-cone-colour.png)
+![Selecciona el color](images/blender-material-cone-colour.png)
 
-+ Render your image to check that the nose has a nice orange colour.
++ Renderiza tu imagen para comprobar que la nariz tiene un bonito color naranja.
 
-![Render the cone](images/blender-snowman-orange-nose.png)
+![Renderiza el cono](images/blender-snowman-orange-nose.png)
 
 + Exit the render view again.
