@@ -1,11 +1,11 @@
-## Challenge: colour the body
+## Uitdaging: kleur het lichaam
 
-When you're in 3D view, you will notice that the spheres making up the bottom and the head of the snowman are grey and not white.
+Als je in 3D-weergave bent, zul je merken dat de bollen die de onderkant en het hoofd van de sneeuwpop vormen, grijs zijn en niet wit.
 
-+ See if you can use what you've learnt to colour the snowman's head and body white.
++ Kijk of je wat je hebt geleerd kunt gebruiken om het hoofd en het lichaam van de sneeuwpop wit te kleuren.
 
-To make the colour white, you need to drag the dot on the slider all the way to the top.
+Om de kleur wit te maken, moet je de stip op de schuifregelaar helemaal naar boven slepen.
 
-![White bottom](images/blender-material-bottom-colour.png)
+![Witte onderkant](images/blender-material-bottom-colour.png)
 
-![Finished snowman](images/blender-snowman-coloured.png)
+![Voltooide sneeuwpop](images/blender-snowman-coloured.png)
