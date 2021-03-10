@@ -1,47 +1,47 @@
-## Colour the hat
+## Kleur de hoed
 
-You will start with the snowman that you created if you have completed the [Snowman](https://projects.raspberrypi.org/en/projects/blender-snowman){:target="_blank"} resource. If you don't have a snowman, you can [download the starter project](resources/snowman.blend).
+Je begint met de sneeuwpop die je hebt gemaakt als je het [Sneeuwpop](https://projects.raspberrypi.org/en/projects/blender-snowman){:target="_blank"} project hebt voltooid. Als je geen sneeuwpop hebt, kun je [het startproject downloaden](resources/snowman.blend).
 
-On its head, the snowman has a hat. Let's try and make it green.
+Op zijn hoofd heeft de sneeuwpop een hoed. Laten we proberen het groen te maken.
 
-+ Render the image by pressing <kbd>F12</kbd> (or <kbd>FN + F12</kbd> if you're working on a Mac).
++ Render de afbeelding door op <kbd>F12</kbd> te drukken (of <kbd>FN + F12</kbd> als je op een Mac werkt).
 
-If you look at what the camera sees, the snowman looks entirely grey. For example:
+Als je kijkt naar wat de camera ziet, ziet de sneeuwpop er helemaal grijs uit. Bijvoorbeeld:
 
-![Grey snowman](images/blender-snowman.png)
+![Grijze sneeuwpop](images/blender-snowman.png)
 
-To colour the snowman, you need to add some **materials** to the model.
+Om de sneeuwpop te kleuren, moet je wat **materials** (materialen) toevoegen aan het model.
 
-+ Press <kbd>ESC</kbd> to exit the render view.
++ Druk op <kbd>ESC</kbd> om de renderweergave te verlaten.
 
-+ Select the hat, then select the **Material Properties** icon from the menu on the right-hand panel.
++ Selecteer de hoed en selecteer vervolgens het **Material Properties** (materiaaleigenschappen) in het menu in het rechterpaneel.
 
-![Select the material tab](images/material-icon-new.png)
+![Selecteer het materiaaltabblad](images/material-icon-new.png)
 
-+ Add a new material by clicking the **New** button.
++ Voeg een nieuw materiaal toe door op de knop **Nieuw** te klikken.
 
-+ Name the material 'greenhat' by typing the name in the box.
++ Noem het materiaal 'greenhat' door de naam in het vak te typen.
 
-![Name the material](images/blender-material-hat-name.png)
+![Geef het materiaal een naam](images/blender-material-hat-name.png)
 
-+ Below, go to **Base Color** and click on the white box. A colour palette will appear, where you can select a nice green colour.
++ Ga hieronder naar **Base Color** (basiskleur) en klik op het witte veld. Er verschijnt een kleurenpalet, waar je een mooie groene kleur uit kunt selecteren.
 
-![Select green](images/blender-material-hat-colour.png)
+![Selecteer groen](images/blender-material-hat-colour.png)
 
-The colour choices might look too bright green for your liking. If you would prefer a darker green, you can decrease the amount of intensity.
+De kleurkeuzes zien er naar jouw smaak misschien te felgroen uit. Als je liever een donkerder groen hebt, kun je de intensiteit verlagen.
 
-+ Select **Base Color** again by clicking on the coloured box. Lower the dot in the right bar on the colour palette towards the black colour. You'll see the green getting darker.
++ Selecteer **Base Color** opnieuw door op het gekleurde veld te klikken. Verplaats de stip in de rechterbalk op het kleurenpalet omlaag naar de zwarte kleur toe. Je zult zien dat het groen donkerder wordt.
 
-![Darker hat](images/blender-material-hat-darker.png)
+![Donkere hoed](images/blender-material-hat-darker.png)
 
-+ Render your image to see what it looks like.
++ Render je afbeelding om te zien hoe deze eruitziet.
 
-![Snowman with dark hat](images/blender-snowman-green-hat.png)
+![Sneeuwpop met donkere hoed](images/blender-snowman-green-hat.png)
 
-You can see that the snowman now has a green hat.
+Je kunt zien dat de sneeuwpop nu een groene hoed heeft.
 
-+ Exit the render view.
++ Verlaat de renderweergave.
 
-+ To view the colour on the snowman in the 3D View, click the **Viewport Shading** button.
++ Om de kleur van de sneeuwpop in de 3D-weergave te bekijken, klik je op de knop **Viewport Shading**.
 
-![Viewport Shading button](images/viewport-shading.png)
+![Viewport Shading-knop](images/viewport-shading.png)
