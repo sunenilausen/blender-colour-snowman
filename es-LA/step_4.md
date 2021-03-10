@@ -1,19 +1,19 @@
-## Colour the eyes and buttons
+## Colorea los ojos y los botones
 
-To colour the other eye and each of the buttons, you could go through the whole process of adding a new material for each, but this would bequite cumbersome. It's much easier to reuse a material that you have already made, so let's reuse the coal material to colour the other eye and the buttons!
+Para colorear el otro ojo y cada uno de los botones, puedes repetir todo el proceso de agregar un nuevo material para cada uno, pero eso sería mucho trabajo. Es mucho más fácil reutilizar un material que ya has hecho, ¡así que reutilicemos el material carbón para colorear el otro ojo y los botones!
 
-+ Select the other eye.
++ Selecciona el otro ojo.
 
-+ Go to the **Material Properties** tab. Instead of selecting the **New** option, click on the **material selection** drop-down menu next to it.
++ Ve a la pestaña **Propiedades del Material**. En lugar de seleccionar la opción **Nuevo**, haz clic en el menú desplegable cercano, que dice **selección de material**.
 
-![Reselect the material](images/blender-sphere-material-reselect.png)
+![Selecciona de nuevo el material](images/blender-sphere-material-reselect.png)
 
-+ Select the 'coal' material you created earlier.
++ Selecciona el material 'carbón' que creaste anteriormente.
 
-Repeat this process for each of the snowman's buttons.
+Repite este proceso para cada uno de los botones del muñeco de nieve.
 
-+ Select a button, then click on the **Material Properties** tab to select the 'coal' material.
++ Selecciona un botón, luego haz clic en la pestaña **Propiedades del Material** para seleccionar el material 'carbón'.
 
-+ Render your image again. You will see that the snowman now has black buttons and black eyes.
++ Renderiza tu imagen nuevamente. Verás que el muñeco de nieve ahora tiene botones y ojos negros.
 
-![Snowman with black buttons](images/blender-snowman-black-buttons.png)
+![Muñeco de nieve con botones negros](images/blender-snowman-black-buttons.png)
