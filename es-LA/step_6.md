@@ -1,11 +1,11 @@
-## Challenge: colour the body
+## Desafío: Colorea el cuerpo
 
-When you're in 3D view, you will notice that the spheres making up the bottom and the head of the snowman are grey and not white.
+Cuando estés en la vista 3D, notarás que las esferas que componen el cuerpo y la cabeza del muñeco de nieve son grises y no blancas.
 
-+ See if you can use what you've learnt to colour the snowman's head and body white.
++ Comprueba si puedes usar lo que has aprendido para colorear de blanco la cabeza y el cuerpo del muñeco de nieve.
 
-To make the colour white, you need to drag the dot on the slider all the way to the top.
+Para obtener el color blanco, tienes que arrastrar el punto sobre la barra hasta la parte superior.
 
-![White bottom](images/blender-material-bottom-colour.png)
+![Cuerpo blanco](images/blender-material-bottom-colour.png)
 
-![Finished snowman](images/blender-snowman-coloured.png)
+![Muñeco de nieve terminado](images/blender-snowman-coloured.png)
