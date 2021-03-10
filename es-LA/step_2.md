@@ -1,47 +1,47 @@
-## Colour the hat
+## Colorea el sombrero
 
-You will start with the snowman that you created if you have completed the [Snowman](https://projects.raspberrypi.org/en/projects/blender-snowman){:target="_blank"} resource. If you don't have a snowman, you can [download the starter project](resources/snowman.blend).
+Comenzarás con el muñeco de nieve que creaste anteriormente si completaste el proyecto [Muñeco de nieve](https://projects.raspberrypi.org/en/projects/blender-snowman){:target="_blank"}. Si no has creado tu propio muñeco de nieve todavía, puedes [descargar este modelo inicial](resources/snowman.blend).
 
-On its head, the snowman has a hat. Let's try and make it green.
+El muñeco de nieve tiene un sombrero sobre su cabeza. Intentemos hacerlo verde.
 
-+ Render the image by pressing <kbd>F12</kbd> (or <kbd>FN + F12</kbd> if you're working on a Mac).
++ Renderiza la imagen presionando <kbd>F12</kbd> (o <kbd>FN + F12</kbd> si estás trabajando en una Mac).
 
-If you look at what the camera sees, the snowman looks entirely grey. For example:
+Si colocas atención a lo que muestra la cámara, podrás observar que el muñeco de nieve se ve completamente gris. Por ejemplo:
 
-![Grey snowman](images/blender-snowman.png)
+![Muñeco de nieve gris](images/blender-snowman.png)
 
-To colour the snowman, you need to add some **materials** to the model.
+Para colorear el muñeco de nieve, tienes que añadir algunos **materiales** al modelo.
 
 + Press <kbd>ESC</kbd> to exit the render view.
 
-+ Select the hat, then select the **Material Properties** icon from the menu on the right-hand panel.
++ Selecciona el sombrero, luego selecciona el ícono **Propiedades del Material ** del menú ubicado en el panel de la derecha.
 
-![Select the material tab](images/material-icon-new.png)
+![Selecciona la pestaña de material](images/material-icon-new.png)
 
-+ Add a new material by clicking the **New** button.
++ Agrega un nuevo material haciendo clic en el botón **Nuevo**.
 
-+ Name the material 'greenhat' by typing the name in the box.
++ Nombra el material 'sombreroverde' escribiendo el nombre en el recuadro.
 
-![Name the material](images/blender-material-hat-name.png)
+![Nombra el material](images/blender-material-hat-name.png)
 
-+ Below, go to **Base Color** and click on the white box. A colour palette will appear, where you can select a nice green colour.
++ A continuación, ve a **Color Base** y haz clic en el cuadro blanco. Aparecerá una paleta de colores, donde podrás seleccionar un bonito color verde.
 
-![Select green](images/blender-material-hat-colour.png)
+![Selecciona verde](images/blender-material-hat-colour.png)
 
-The colour choices might look too bright green for your liking. If you would prefer a darker green, you can decrease the amount of intensity.
+Las opciones de color verde pueden parecer muy brillantes para tu gusto. Si prefieres un verde más oscuro, puedes reducir el nivel de intensidad.
 
-+ Select **Base Color** again by clicking on the coloured box. Lower the dot in the right bar on the colour palette towards the black colour. You'll see the green getting darker.
++ Selecciona **Color Base** de nuevo haciendo clic en la caja de colores. En la barra derecha de la paleta de colores, baja el punto hacia el color negro. Verás que el verde se oscurece.
 
-![Darker hat](images/blender-material-hat-darker.png)
+![Sombrero más oscuro](images/blender-material-hat-darker.png)
 
-+ Render your image to see what it looks like.
++ Renderiza tu imagen para observar cómo se ve.
 
-![Snowman with dark hat](images/blender-snowman-green-hat.png)
+![Muñeco de nieve con sombrero oscuro](images/blender-snowman-green-hat.png)
 
-You can see that the snowman now has a green hat.
+Podrás ver que el muñeco de nieve ahora tiene un sombrero verde.
 
 + Exit the render view.
 
 + To view the colour on the snowman in the 3D View, click the **Viewport Shading** button.
 
-![Viewport Shading button](images/viewport-shading.png)
+![Botón Viewport Shading](images/viewport-shading.png)
