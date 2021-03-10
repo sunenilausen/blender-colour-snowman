@@ -1,23 +1,23 @@
-## Colour the nose
+## Kleur de neus
 
-The snowman's nose will be orange. As you don't yet have an orange material, you will need to make a new colour.
+De neus van de sneeuwpop zal oranje zijn. Omdat je nog geen oranje materiaal hebt, moet je een nieuwe kleur maken.
 
-+ Select the nose.
++ Selecteer de neus.
 
-+ Go to the **Material Properties** tab.
++ Ga naar het tabblad **Material Properties**.
 
-+ Select **New** to create a new colour.
++ Selecteer **Nieuw** om een nieuwe kleur te maken.
 
-+ Give the material a name, for example 'carrot'.
++ Geef het materiaal een naam, bijvoorbeeld 'carrot' (wortel).
 
-![Name the material](images/blender-material-cone-name.png)
+![Geef het materiaal een naam](images/blender-material-cone-name.png)
 
-+ Select **Base Color** and pick a nice orange colour. If necessary, drop the intensity to get a nice carrot-like shade.
++ Selecteer **Base Color** en kies een mooie oranje kleur. Verlaag zo nodig de intensiteit om een mooie wortelachtige tint te krijgen.
 
-![Select the colour](images/blender-material-cone-colour.png)
+![Selecteer de kleur](images/blender-material-cone-colour.png)
 
-+ Render your image to check that the nose has a nice orange colour.
++ Render je afbeelding om te controleren of de neus een mooie oranje kleur heeft.
 
-![Render the cone](images/blender-snowman-orange-nose.png)
+![Render de kegel](images/blender-snowman-orange-nose.png)
 
-+ Exit the render view again.
++ Verlaat de renderweergave weer.
