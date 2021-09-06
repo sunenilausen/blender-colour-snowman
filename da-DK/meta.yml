@@ -1,0 +1,23 @@
+title: Farv en snemand
+hero_image: images/banner.png
+description: Lær hvordan man farver en 3D model af en snemand i Blender.
+theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+interests: art
+technologies: blender
+site_areas: projects
+hardware: ''
+software: blender
+version: 4
+last_tested: 2020-01-28
+steps:
+- title: Introduktion
+- title: Giv hatten farve
+- title: Giv et øje farve
+- title: Giv øjnene og knapperne farve
+- title: Giv næsen farve
+- title: "Udfordring: giv kroppen farve"
